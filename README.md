@@ -12,6 +12,8 @@ There is a login and registration functionality included.
 Users can shop for products. Each user has his own shopping cart (session functionality).
 Checkout is transactional.
 
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/85a0714e-b650-48a9-b6a7-c8853b8dac99"> <br />
+
 ## Configuration
 
 ### Configuration Files
