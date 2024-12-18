@@ -26,6 +26,7 @@ as well as change the port number.
 ☁️ AWS: Cloud platform for computing, storage, and networking.
 
 <br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/9455178d-3511-4005-b01a-84398398bbaa"> <br />
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/05d7ba36-8b17-46e3-947d-997a921ae157"> <br />
 
 ## How to run
 
@@ -40,6 +41,9 @@ Admin password: **admin**
 User username: **user**
 
 User password: **password**
+
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/b80db928-5417-4047-863b-2e7643a904bc"> <br />
+
 
 ### Maven Wrapper
 
@@ -107,6 +111,8 @@ $ java -jar target/shopping-cart-0.0.1-SNAPSHOT.jar
 
 To exit the application, press **ctrl-c**.
 
+🔍 SonarQube: Code quality inspection and vulnerability detection.
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/a83f831c-0769-4492-bd75-3f913d522cb8"> <br />
 ### Docker
 
 It is possible to run **shopping-cart** using Docker:
@@ -132,7 +138,9 @@ It is possible to run all of the above with helper script:
 $ chmod +x scripts/run_docker.sh
 $ scripts/run_docker.sh
 ```
+🐳 Docker Push: Pushes images to the repository.
 
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/96366035-310f-42d9-9e9e-286f9007e4df"> <br />
 ## Docker 
 
 Folder **docker** contains:
@@ -151,7 +159,9 @@ Tests can be run by executing following command from the root of the project:
 ```bash
 $ mvn test
 ```
-
+🚀 Deploy to Server: Deploys the application.
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/fb779f19-a800-40c3-931a-3c5dd85bcb68"> <br />
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/eefdd513-a87d-4641-a68f-8d222b1a03dc"> <br />
 ## Helper Tools
 
 ### HAL REST Browser
@@ -170,4 +180,9 @@ jdbc:h2:mem:shopping_cart_db
 ```
 
 In `/src/main/resources/application.properties` file it is possible to change both
-web interface url path, as well as the datasource url.
+web interface url path, as well as the datasource URL.
+
+
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/14f97111-aefa-45c9-8892-33ac829e920d"> <br />
+<br /> <img align="center" width="900" height="500" src="https://github.com/user-attachments/assets/6ef50221-5ac6-4abf-9482-ac7617c3a3cd"> <br />
+
